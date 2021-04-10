@@ -7,3 +7,4 @@
 	path = rater
 	url = https://github.com/jeffreypullin/rater
 	shallow = true
+	registered = true
